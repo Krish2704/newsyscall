@@ -1,8 +1,6 @@
-# HELLO WORLD SYSTEM CALL IMPLEMENTATION IN LINUX
-
 
 # What is it?
-A new Hello world system call for Linux.
+A new Hello world system call in Linux.
 
 # Why am I doing?
 To understand how the system calls are implemented and how to create a new system and how to modify the existing makefiles.
